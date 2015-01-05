@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\bin\Release\Mixtape Maker.exe" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-08-27" time="16:11:10">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.5472" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.2\bin" machine-name="E104037" user="AYoung" user-domain="NA" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\bin\Release\Mixtape Maker.exe" executed="True" result="Failure" success="False" time="3.895" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Mixtape_Maker" executed="True" result="Failure" success="False" time="3.887" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Tests" executed="True" result="Failure" success="False" time="3.885" asserts="0">
+            <properties>
+              <property name="APARTMENT_STATE" value="STA" />
+            </properties>
+            <results>
+              <test-case name="Mixtape_Maker.Tests.AddPlaylistTest" executed="True" result="Error" success="False" time="3.861" asserts="0">
+                <failure>
+                  <message><![CDATA[System.ArgumentException : parsing "([a-z]):\" - Illegal \ at end of pattern.]]></message>
+                  <stack-trace><![CDATA[at System.Text.RegularExpressions.RegexParser.ScanBackslash()
+at System.Text.RegularExpressions.RegexParser.ScanRegex()
+at System.Text.RegularExpressions.RegexParser.Parse(String re, RegexOptions op)
+at System.Text.RegularExpressions.Regex..ctor(String pattern, RegexOptions options, Boolean useCache)
+at Mixtape_Maker.MainWindow.AddPlaylist(String[] files) in C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\MainWindow.xaml.cs:line 78
+at Mixtape_Maker.Tests.AddPlaylistTest() in C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\Tests.cs:line 18
+]]></stack-trace>
+                </failure>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

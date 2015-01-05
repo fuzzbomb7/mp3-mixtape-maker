@@ -1,0 +1,19 @@
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\bin\Release\Mixtape Maker.exe
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\bin\Release\Mixtape Maker.pdb
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Release\MainWindow.baml
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Release\MainWindow.g.cs
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Release\App.g.cs
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Release\Mixtape Maker_MarkupCompile.cache
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Release\Mixtape Maker.g.resources
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Release\Mixtape_Maker.Properties.Resources.resources
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Release\Mixtape Maker.exe
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Release\Mixtape Maker.pdb
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\bin\Release\Mixtape Maker.exe.config
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\bin\Release\nunit.framework.xml
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\bin\Release\WPFFolderBrowser.dll
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Release\MoveFiles.baml
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Release\MoveFiles.g.cs
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Release\Mixtape Maker_MarkupCompile.lref
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\bin\Release\taglib-sharp.dll
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Release\Mixtape Maker.csprojResolveAssemblyReference.cache
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Release\Mixtape Maker.csproj.GenerateResource.Cache

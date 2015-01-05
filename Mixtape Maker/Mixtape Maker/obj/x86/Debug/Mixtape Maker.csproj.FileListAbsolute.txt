@@ -1,0 +1,20 @@
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\bin\Debug\Mixtape Maker.exe
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\bin\Debug\Mixtape Maker.pdb
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Debug\MainWindow.baml
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Debug\MainWindow.g.cs
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Debug\App.g.cs
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Debug\Mixtape Maker_MarkupCompile.cache
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Debug\Mixtape Maker.g.resources
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Debug\Mixtape_Maker.Properties.Resources.resources
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Debug\Mixtape Maker.exe
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Debug\Mixtape Maker.pdb
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\bin\Debug\Mixtape Maker.exe.config
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\bin\Debug\nunit.framework.dll
+C:\Users\AYoung\Documents\Visual Studio 2010\Projects\Mixtape Maker\Mixtape Maker\bin\Debug\nunit.framework.xml
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Debug\MoveFiles.baml
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Debug\MoveFiles.g.cs
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\bin\Debug\WPFFolderBrowser.dll
+C:\Users\AYoung\documents\visual studio 2010\Projects\Mixtape Maker\Mixtape Maker\obj\x86\Debug\Mixtape Maker_MarkupCompile.lref
