@@ -8,11 +8,11 @@ So you wanna make a mixtape? You've got mp3 files scattered across multiple dire
 ##How To Use
 From the *Add Files* tab, click the *Add MP3 Files* button to select files to add to your compilation. If you have an .m3u playlist that you wish to import, clock the *Add Playlist* button. The files you've selected will appear in the list below.
 
-![Add Files tab]()
+![Add Files tab](https://github.com/fuzzbomb7/mp3-mixtape-maker/blob/master/Binaries/mixtape-add.png)
 
 When you are ready to gather your files, click the *Copy Files to Folder* button. Select or create the folder that you wish to copy your music files to. The display will switch to the *Edit Compilation* tab.
 
-![Edit Compilation tab]()
+![Edit Compilation tab](https://github.com/fuzzbomb7/mp3-mixtape-maker/blob/master/Binaries/mixtape-compilation.png)
 
 Here, you can rename and reorder files. To rename a file, simply double-click the file name in the list and start typing. Use the *Move Up* and *Move Down* buttons to re-order titles in the list. The *Auto Number* button will strip any numbering from the file names and re-number them in the order that they appear in the list.
 
