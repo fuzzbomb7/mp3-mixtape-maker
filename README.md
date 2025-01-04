@@ -25,5 +25,5 @@ Add mp3 tagging capabilities. There are a lot of programs however that do this.
 
 ## Download
 
-**Windows Installer:** [Mp3 Mixtape Maker 0.2 beta](http://andrew.inmyroom.org/mixtapemaker.msi)
+See Releases at right
 
