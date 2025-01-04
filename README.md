@@ -1,11 +1,11 @@
-#MP3 Mixtape Maker
+# MP3 Mixtape Maker
 A Windows utility for compiling, renaming and packaging files for mp3 compilations.
 
 So you wanna make a mixtape? You've got mp3 files scattered across multiple directories. Maybe you've got a playlist file containing all of the songs in the correct order? 
 
 **MP3 Mixtape Maker** takes your .m3u playlist file (supported by nearly every mp3 player software in existence) and copies all of the files to a folder of your choice. You can then rename the files, number then sequentially, and zip them.
 
-##How To Use
+## How To Use
 From the *Add Files* tab, click the *Add MP3 Files* button to select files to add to your compilation. If you have an .m3u playlist that you wish to import, clock the *Add Playlist* button. The files you've selected will appear in the list below.
 
 ![Add Files tab](https://github.com/fuzzbomb7/mp3-mixtape-maker/blob/master/Binaries/mixtape-add.png)
@@ -20,10 +20,10 @@ If you need to work with a previous compilation, click the *Select Folder* butto
 
 Once your files are re-named and organized, click the *Create Playlist* button to create an M3U playlist, or the *Zip Files* button to zip up the files in the list. 
 
-##To Do (maybe)
+## To Do (maybe)
 Add mp3 tagging capabilities. There are a lot of programs however that do this.
 
-##Download
+## Download
 
 **Windows Installer:** [Mp3 Mixtape Maker 0.2 beta](http://andrew.inmyroom.org/mixtapemaker.msi)
 
